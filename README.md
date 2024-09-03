@@ -1,3 +1,3 @@
 # Inbound-Asia-Scripts
 
-### Script using Python beautiful soup to scrap information from websites and packages them
+### Script using Python BeautifulSoup to scrape information from websites and package them
